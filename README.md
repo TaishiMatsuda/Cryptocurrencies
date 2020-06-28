@@ -19,7 +19,7 @@ The objectives of the module are to implement unsupervised machine learning tech
 The cryptocurrencies dataset was categorized into 4 clusters based on the shape of the elbow curve.
 The brief explanation of the categories predicted by the K-means algorithm is as shown below;
 
-* BitTorrent as its own category which uses unique Algorithm, TRC10, and has extremely large values supplied and mined
+* BitTorrent as its own category which uses unique Algorithm, TRC10, and has extremely large values supplied and mined.
 * Category with Proof Type of PoS. 
 * Category with Proof Type of PoW.
-* Other
+* Other with other Algorithm/Proof Types and small values supplied and mined.
