@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Module Contents
+ClassMaterial/
+Module 18-Detailed-Rubric-Machine Learning.pdf
+Practice.ipynb
+
 # Distribution / packaging
 .Python
 build/
